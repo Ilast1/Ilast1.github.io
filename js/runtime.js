@@ -1,5 +1,5 @@
 /*
-页脚js
+页脚计时器js
 */
 // var now=new Date;
 // function createtime(){now.setTime(now.getTime()+1e3);
